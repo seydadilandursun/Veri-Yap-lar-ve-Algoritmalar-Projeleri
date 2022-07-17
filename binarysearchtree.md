@@ -17,3 +17,5 @@ oluşturacaktır. Adımlar benzer şekilde sırayla devam ettirilirse şöyle bi
                                                          / \
                                                         2   4
                    
+---
+[patika.dev](www.patika.dev)
