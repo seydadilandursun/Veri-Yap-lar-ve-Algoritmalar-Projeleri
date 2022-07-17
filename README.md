@@ -51,4 +51,4 @@ Insertion Sort ( Başka kaynaklara ve videodaki kaynaklara göre*);
 [2,3,5,7,8,9,4,15,6] "...
 ```
 
-[PATIKADEV](app.patika.dev)
+[Patika](https://www.patika.dev/tr)
